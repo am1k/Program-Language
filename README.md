@@ -3,6 +3,7 @@
 ## About program
 
 Programming Language is simple program but powerful enough to express any calculations. It will also carry out a simple abstraction based on functions.
+More about this game you can find at this link <a href="http://eloquentjavascript.net/11_language.html">game</a>
 
 ## Sample Code
 
@@ -38,4 +39,11 @@ do(define(x, 10),
 * length - returns 'length' of specified array
 * element - returns corresponding element in specified cell of specified array
 
-##
+## Run test
+
+1. npm install
+2. Run Tests in console
+   npm test
+3. Run Tests in browser
+   npm run test-in-browser
+   Open browser at http://localhost:9966/
